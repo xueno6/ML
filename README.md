@@ -1,3 +1,3 @@
 # ML
 
-machine learning fro predicting sepsis
+machine learning for predicting sepsis
